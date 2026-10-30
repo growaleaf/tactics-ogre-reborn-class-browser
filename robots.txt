@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://growaleaf.github.io/tactics-ogre-reborn-class-browser/sitemap.xml
